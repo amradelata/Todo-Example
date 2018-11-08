@@ -47,3 +47,20 @@ li.ui-state-default:last-child{
 #checkAll{
     margin-top:10px;
 }
+.checkbox{
+    display: inline-block;
+}
+.checkbox span{
+    margin-right: 220px
+}
+.btn-danger,
+.btn-warning,
+.btn-success{
+    outline: none;
+    display: inline-block;
+    margin-bottom: 30px
+}
+
+.btn-success{
+    margin-top: 20px
+}
